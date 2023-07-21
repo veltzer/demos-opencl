@@ -1,0 +1,3 @@
+https://www.incredibuild.com/blog/cuda-vs-opencl-which-to-use-for-gpu-programming
+https://github.com/michel-meneses/great-opencl-examples/blob/master/image_filtering/image_filtering.cl
+https://github.com/rsnemmen/OpenCL-examples/blob/master/squeare_array/clbuild.c
